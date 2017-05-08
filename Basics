@@ -1,4 +1,16 @@
 
-
-
+https://hyperledger.github.io/composer/unstable/business-network/businessnetwork.html 
+  
+  Business Network must contain
+		Participants (members in the network)
+		Assets ( tangible or non tangible)
+		Registry (Ledger)
+		Transactions (logic)
+		
+	Business Network Definitions
+	
+	
+	
+    
+    
   
